@@ -24,7 +24,7 @@ Developed using **Ruby on Rails**, the project also integrates basic **PostgreSQ
 - **Database**: PostgreSQL
 - **Version Control**: Git
 - **UI/UX**: Basic HTML/CSS, ERB templates
-- **Deployment**: (Optional – add Heroku or other platforms if used)
+- **Deployment**: (It was deployed on Heroku. But since its free Dyno feature was closed, the link provided cannot be accessed)
 
 ## 👨‍💻 Author
 
