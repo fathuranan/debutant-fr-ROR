@@ -1,7 +1,39 @@
-# README
+#README
 
-This website was developed as part of a course completion requirement organized by the Ministry of Communication and Informatics (KOMDIGI) in collaboration with Progate Indonesia in August 2022. Built using the Ruby on Rails framework, the project integrates essential web development components while leveraging the Ruby programming language. The site also demonstrates a basic database integration using PostgreSQL, including a functional user login system as part of the back-end implementation.
+# 🇫🇷 French Learning Website – KOMDIGI x Progate Project
 
-The purpose of this website is to serve as a learning platform for Indonesian users who are interested in studying the French language but may not know where to begin. With a beginner-friendly interface and structure, the website aims to make language learning more accessible, especially for self-learners. It reflects both technical skill in web development and a practical approach to addressing educational needs in a digital era.
+This repository contains the source code for a beginner-level French learning website developed as part of the KOMDIGI x Progate program held by the Ministry of Communication and Informatics (KOMINFO) and Progate Indonesia in August 2022.
 
-Beyond serving as a functional project for certification, this website also highlights my ability to design educational tools with a user-centered approach. The project involved planning content flow, structuring information for clarity, and ensuring responsiveness across different devices. 
+## 📌 Project Overview
+
+The purpose of this website is to support Indonesian learners who are interested in starting their journey into the French language. Designed with a user-friendly interface, the platform serves as an entry point for self-learners who may not know where or how to begin. 
+
+Developed using **Ruby on Rails**, the project also integrates basic **PostgreSQL** database functionality and includes a simple user login system. The project demonstrates full-stack web development capabilities, from UI layout to backend structure.
+
+## 🎯 Objectives
+
+- Develop a beginner-friendly website using Ruby on Rails.
+- Apply back-end logic with PostgreSQL for user management.
+- Provide easy access to basic French language learning content.
+- Showcase a real-world educational project for portfolio and certification purposes.
+
+## 💼 Skills & Tools Used
+
+- **Programming Language**: Ruby
+- **Framework**: Ruby on Rails
+- **Database**: PostgreSQL
+- **Version Control**: Git
+- **UI/UX**: Basic HTML/CSS, ERB templates
+- **Deployment**: (Optional – add Heroku or other platforms if used)
+
+## 👨‍💻 Author
+
+This project was developed by [Your Name], an IT Support Specialist with experience in website development, networking, and educational research. It is part of a broader professional portfolio to showcase both technical and educational project experience.
+
+## 📄 License
+
+This project is for educational and portfolio purposes only. Feel free to explore the code and modify it for learning.
+
+---
+
+⭐️ *If you find this project interesting, feel free to star the repository and leave feedback!*
